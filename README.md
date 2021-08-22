@@ -1,6 +1,6 @@
 # GCP Cloud Functions
 
-Simplest set up for running GCP Cloud Functions on local
+Simplest setup for running GCP Cloud Functions on local
 environments
 
 ## Quick Start
